@@ -7,28 +7,36 @@ The Center for a Livable Future's (CLF) Food System Sustainable and Public Healt
 The need for more information on how all aspects of the food system are impacted by COVID-19, and which responses are most effective, is becoming ever more apparent as the virus continues to spread throughout communities across the U.S. To be able to respond most effectively in real-time, as well as understand how to prepare and respond better in a future crisis like this, cities, non-profits, businesses, and researchers need to know how COVID-19 is impacting access, availability, affordability, and acceptability across U.S. communities. To the best of our knowledge, there is currently no comprehensive/ centralized data collected on these food system impacts, nor on the responses happening and evolving daily. Our goal in making these data publicly available is to aid response to COVID-19's impact on the food system, and provide resources to prepaer for future crises. 
 
 ### Content
-- Data sources and metadata : A full list of the indicators, including metadata on each indicator 
-- FAQ: Frequently asked questions about the data, food system resilience, terms of use etc.
-- Food Availability: Data for indicators related to food availability
-- Food Afoordability: Data for indicators related to food affordability
-- Food Accesibility: Data for indicators related to food accessibility (physical(
-- Food Acceptance: Data for indicators realted to food a cceptance
+- Data sources and metadata (**sources_metadata.xlsx**) : A full list of the indicators, including metadata on each indicator 
+- **FAQ.md**: Frequently asked questions about the data, food system resilience, terms of use etc.
+- **Food Availability.md**: List of indicators for food availabiility
+  -  Zipped Data files for each food availability indicator (.csv)
+- **Food Affordability.md**: List of indicators for food affordability
+  - Zipped Data files for each food affordability indicator (.csv)
+- **Food Accesibility.md**: List of indicators for food accessibility
+  - Zipped data files for each food accessibility indicator (.csv)
+- **Food Acceptance.md** List of indicators for food acceptance
+  - Zipped data files for each food acceptance indicator (.csv)
 
 
 ### Data Sources
+A complete description of data sources can be found in our
+
+### Authors
+Neff, R., Biehl, E., Moynihan, E., Choi, S. (or whateer order you see fit)
 
 ### Acknowledgements
-We'd like to thank the following individuals for their time and commitment to this project:
+We'd like to thank the following individuals for their time: Jamie Harding, Caitlin etc. (Should include or not?)
 
 ### About CLF 
-Our Mission
+#####Our Mission
 The Johns Hopkins Center for a Livable Future (CLF) works with students, educators, researchers, policymakers, advocacy organizations and communities to build a healthier, more equitable and resilient food system.
 
-Our Affiliation
+#####Our Affiliation
 The Center for a Livable Future (CLF) operates out of the Johns Hopkins Bloomberg School of Public Health, from the Department of Environmental Health and Engineering.
 
 
-Our Contributions to the Sustainable Development Goals
+#####Our Contributions to the Sustainable Development Goals
 The Center’s work aligns with many of the United Nations’ 2015 Sustainable Development Goals (SDGs) in different ways. Because we operate at the intersection of public health and food systems, our work naturally contributes to a cross-section of the SDGs, especially the goals related to ending poverty, ending hunger and malnutrition, and achieving good health and wellbeing. Click on the goals below for more information.
 
 ### Contact Us
