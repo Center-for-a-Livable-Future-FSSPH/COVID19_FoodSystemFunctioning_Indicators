@@ -8,13 +8,18 @@ The need for more information on how all aspects of the food system are impacted
 
 ### Content
 - Data sources and metadata (**sources_metadata.xlsx**) : A full list of the indicators, including metadata on each indicator 
+
 - **FAQ.md**: Frequently asked questions about the data, food system resilience, terms of use etc.
+
 - **Food Availability.md**: List of indicators for food availabiility
   -  Zipped Data files for each food availability indicator (.csv)
+  
 - **Food Affordability.md**: List of indicators for food affordability
   - Zipped Data files for each food affordability indicator (.csv)
+  
 - **Food Accesibility.md**: List of indicators for food accessibility
   - Zipped data files for each food accessibility indicator (.csv)
+  
 - **Food Acceptance.md** List of indicators for food acceptance
   - Zipped data files for each food acceptance indicator (.csv)
 
