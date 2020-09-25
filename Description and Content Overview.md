@@ -29,14 +29,14 @@ Neff, R., Biehl, E., Moynihan, E., Choi, S. (or whateer order you see fit)
 We'd like to thank the following individuals for their time: Jamie Harding, Caitlin etc. (Should include or not?)
 
 ### About CLF 
-#####Our Mission
+##### Our Mission
 The Johns Hopkins Center for a Livable Future (CLF) works with students, educators, researchers, policymakers, advocacy organizations and communities to build a healthier, more equitable and resilient food system.
 
-#####Our Affiliation
+##### Our Affiliation
 The Center for a Livable Future (CLF) operates out of the Johns Hopkins Bloomberg School of Public Health, from the Department of Environmental Health and Engineering.
 
 
-#####Our Contributions to the Sustainable Development Goals
+##### Our Contributions to the Sustainable Development Goals
 The Center’s work aligns with many of the United Nations’ 2015 Sustainable Development Goals (SDGs) in different ways. Because we operate at the intersection of public health and food systems, our work naturally contributes to a cross-section of the SDGs, especially the goals related to ending poverty, ending hunger and malnutrition, and achieving good health and wellbeing. Click on the goals below for more information.
 
 ### Contact Us
