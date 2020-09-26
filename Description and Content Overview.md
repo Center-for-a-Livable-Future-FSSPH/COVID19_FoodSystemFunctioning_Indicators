@@ -26,7 +26,7 @@ The need for more information on how all aspects of the food system are impacted
 - **Demographic and SES Indicators** List of other indicators relevant to food system functioning
   - Zipped data file for Demographic and SESS indicators (.xlsx)
   
--**Policies** List of relevant policies 
+- **Policies** List of relevant policies 
    -Zipped data file for relevant policies (day enacted, day ended etc).
   
 ### Data Sources
