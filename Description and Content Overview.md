@@ -12,20 +12,27 @@ The need for more information on how all aspects of the food system are impacted
 - **FAQ.md**: Frequently asked questions about the data, food system resilience, terms of use etc.
 
 - **Food Availability.md**: List of indicators for food availabiility
-  -  Zipped Data files for each food availability indicator (.csv)
+  -  Zipped Data files for each food availability indicator (.xlsx)
   
 - **Food Affordability.md**: List of indicators for food affordability
-  - Zipped Data files for each food affordability indicator (.csv)
+  - Zipped Data file for each food affordability indicator (.xlsx)
   
 - **Food Accesibility.md**: List of indicators for food accessibility
-  - Zipped data files for each food accessibility indicator (.csv)
+  - Zipped data file for each food accessibility indicator (.xlsx)
   
 - **Food Acceptance.md** List of indicators for food acceptance
-  - Zipped data files for each food acceptance indicator (.csv)
-
-
+  - Zipped data file for each food acceptance indicator (.xlsx)
+  
+- **Demographic and SES Indicators** List of other indicators relevant to food system functioning
+  - Zipped data file for Demographic and SESS indicators (.xlsx)
+  
 ### Data Sources
-A complete description of data sources can be found in our
+A complete description of data sources can be found in the **Sources and Metadata** spreadsheet, and concise list of agencies/organizations provided below:
+  - Bureau of Labor Statistics
+  - U.S. Census Bureau 
+  - United States Department of Agriculture Food and Nutrition Service
+  - Raifman J, Nocka K, Jones D, Bor J, Lipson S, Jay J, and Chan P. (2020). "COVID-19 US state policy database." Available at: www.tinyurl.com/statepolicies
+ 
 
 ### Authors
 Neff, R., Biehl, E., Moynihan, E., Choi, S. (or whateer order you see fit)
