@@ -27,7 +27,7 @@ The need for more information on how all aspects of the food system are impacted
   - Zipped data file for Demographic and SESS indicators (.xlsx)
   
 - **Policies** List of relevant policies 
-   -Zipped data file for relevant policies (day enacted, day ended etc).
+   - Zipped data file for relevant policies (day enacted, day ended etc).
   
 ### Data Sources
 A complete description of data sources can be found in the **Sources and Metadata** spreadsheet, and concise list of agencies/organizations provided below:
