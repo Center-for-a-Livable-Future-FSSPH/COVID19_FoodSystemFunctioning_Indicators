@@ -1,0 +1,15 @@
+ - Number and Perceny Change in Unemployment for Food Preparation & Services Workers
+ - Percent Change in Monthly SNAP Enrollment
+ - Percent Change in Monthly WIC Enrollment
+ - Monthly Average Per Person Household Benefits ($USD) & Percent Change 
+ - Monthly Average Per Person WIC Benefits & Percent Change
+ - Average Weekly Amount of Money Spent on Food among Households with No Children 
+ - Average Weekly Amount of Money Spent on Food among Households with 2 Children 
+ - Percent Reporting Reciving  Free Grocies or Meals
+ - Percent Reporting Using Home-Delivered Meal Service
+ - Percent Reporting Using Food Pantry or Food Bank
+ - Percent Reporting Receiving Food from Schools or Other Programs Aimed at Children
+ - Food Sufficiency in Black Households
+ - Food Sufficiency in Hispanic Households
+ - Food Sufficiency in Households with Children
+ - Food Sufficiency in Households without Children
