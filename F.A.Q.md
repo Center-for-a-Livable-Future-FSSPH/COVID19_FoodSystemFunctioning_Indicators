@@ -9,7 +9,7 @@ We define food systems as systems “encompass[ing] all activities and resources
 
 ###  2. What is resilience?
 
-We consider resilience the ability of a system to prepare for, resist, and recover from adverse situations. A resilient food system should be able to maintain food availability, affordability, accessibility, and acceptability in the face of shocks or stressors, such as COVID-19 or a natural disaster.
+We consider resilience the ability of a system to prepare for, resist, and recover from adverse situations. A resilient food system should be able to maintain food availability, affordability, accessibility, and acceptability in the face of shocks or stressors, such as COVID-19 or a natural disaster. Resilience can be difficult to measure, so we assess it through how well the food system is functioning. Aspects of food system functioning are described below (affordability, accessibility, availability, acceptability).
 
 ### 3. What is food affordability?
 
