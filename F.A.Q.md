@@ -13,26 +13,40 @@ We consider resilience the ability of a system to prepare for, resist, and recov
 
 ### 3. What is food affordability?
 
-Food affordability refers to 
+Food affordability refers to an indivudal or population's financial ability to secure sufficienet and desirable food. Measures of government assistance, such as Supplemental Nutirtion Assistance Program (SNAP) enrollment to minimize financial barriers to food also fall within food affordability.
 
 ### 4. What is food availability? 
 
+Food availability refers to the physical quantity of food and whether supply is sufficient for the population it is intendend for.
+
 ### 5. What is  food accessibility?
+
+Accessibile food is available within manageable distances and/or supported by infrastructures that enables a population to acquire abundant food without physical difficulty. For instance, lack of public transportation in an urban area may make negatively impact food access.
 
 ### 6. What is food acceptability?
 
+Food should be safe, nutritious, and culturally appropriate. For instance, individuals with dietary restrictions due to religious or moral beliefs should be able to secure plentiful amounts of food to support their diet without considerable difficulty.
 
 ## Data Questions
 
 ### 7. What is the date range of the data?
 
+This varies by the indicator, but whenever possible data are collected from 2010 to the present. Therefore, these data can be used to understand the impact of other events on the food system.
+
 ### 8. What geographic units do thes data cover?
+
+Data are most often available at the state level, but when this is not possible we provide data are the regional or national level. Some data are also available at the county level
 
 ### 9. Do you plan on updating these data and if so, with what frequency?
 
+Yes, we plan on updating these data on a quarterly basis. Therefore, an update can be expected by the end of the year (2020).
+
 ### 10. Are any CLF analyses of these data available?
 
+Yes! We are wrapping up initial analyses. Check back here for future updates.
  
 ## Other Questions
 
 ### 11. I have a question not addressed above - who can I contact about this?
+
+You are welcome to contact us at ____________.
