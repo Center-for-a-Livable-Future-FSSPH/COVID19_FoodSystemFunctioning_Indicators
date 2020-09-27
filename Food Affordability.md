@@ -1,3 +1,6 @@
+ 
+ ## Food Affordability Indicators
+ 
  - Number and Perceny Change in Unemployment for Food Preparation & Services Workers
  - Percent Change in Monthly SNAP Enrollment
  - Percent Change in Monthly WIC Enrollment
