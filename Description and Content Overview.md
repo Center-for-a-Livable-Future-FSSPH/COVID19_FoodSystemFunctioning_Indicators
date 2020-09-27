@@ -34,6 +34,7 @@ A complete description of data sources can be found in the **Sources and Metadat
   - Bureau of Labor Statistics
   - U.S. Census Bureau 
   - United States Department of Agriculture Food and Nutrition Service
+  - Kinsey, E., Built Environment & Health Research Group, Center for Sustainable Communities, & Kindey, D. (2020). "SNAP and Food Shopping Durving COVID-19" Columbia Univeristy     & Templte University. Available at: https://www.arcgis.com/apps/webappviewer/index.html?id=13239c50eb704e05888186ae85230bfc
   - Raifman J, Nocka K, Jones D, Bor J, Lipson S, Jay J, and Chan P. (2020). "COVID-19 US state policy database." Available at: www.tinyurl.com/statepolicies
  
 
