@@ -9,19 +9,19 @@ We define food systems as systems “encompass[ing] all activities and resources
 
 ###  2. What is resilience?
 
-We consider resilience the ability of a system to prepare for, resist, and recover from adverse situations. A resilient food system should be able to maintain food availability, affordability, accessibility, and acceptabiliy in the face of shocks or stressors, such as COVID-19 or a natural disaster.
+We consider resilience the ability of a system to prepare for, resist, and recover from adverse situations. A resilient food system should be able to maintain food availability, affordability, accessibility, and acceptability in the face of shocks or stressors, such as COVID-19 or a natural disaster.
 
 ### 3. What is food affordability?
 
-Food affordability refers to an indivudal or population's financial ability to secure sufficienet and desirable food. Measures of government assistance, such as Supplemental Nutirtion Assistance Program (SNAP) enrollment to minimize financial barriers to food also fall within food affordability.
+Food affordability refers to an individual or population's financial ability to secure sufficient and desirable food. Measures of government assistance, such as Supplemental Nutrition Assistance Program (SNAP) enrollment to minimize financial barriers to food also fall within food affordability.
 
 ### 4. What is food availability? 
 
-Food availability refers to the physical quantity of food and whether supply is sufficient for the population it is intendend for.
+Food availability refers to the physical quantity of food and whether supply is sufficient for the population it is intended for.
 
 ### 5. What is  food accessibility?
 
-Accessibile food is available within manageable distances and/or supported by infrastructures that enables a population to acquire abundant food without physical difficulty. For instance, lack of public transportation in an urban area may make negatively impact food access.
+Accessible food is available within manageable distances and/or supported by infrastructures that enables a population to acquire abundant food without physical difficulty. For instance, lack of public transportation in an urban area may make negatively impact food access.
 
 ### 6. What is food acceptability?
 
@@ -33,7 +33,7 @@ Food should be safe, nutritious, and culturally appropriate. For instance, indiv
 
 This varies by the indicator, but whenever possible data are collected from 2010 to the present. Therefore, these data can be used to understand the impact of other events on the food system.
 
-### 8. What geographic units do thes data cover?
+### 8. What geographic units do these data cover?
 
 Data are most often available at the state level, but when this is not possible we provide data are the regional or national level. Some data are also available at the county level
 
