@@ -57,4 +57,7 @@ The Center’s work aligns with many of the United Nations’ 2015 Sustainable D
 ### Contact Us
 For more information about the Center for a Livable Future, please visit: https://clf.jhsph.edu/
 
+For more information about the Center for a Livable Future’s research and policy work on building food system resilience, go to: https://clf.jhsph.edu/projects/food-system-resilience  
+
+
 For questions about the indicator dataset, please contact: clf.fssph@gmail.com
