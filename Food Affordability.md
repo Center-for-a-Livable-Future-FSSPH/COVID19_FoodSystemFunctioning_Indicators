@@ -1,14 +1,14 @@
  
  ## Food Affordability Indicators
  
- - Number and Perceny Change in Unemployment for Food Preparation & Services Workers
+ - Number and Percent Change in Unemployment for Food Preparation & Service Workers
  - Percent Change in Monthly SNAP Enrollment
  - Percent Change in Monthly WIC Enrollment
  - Monthly Average Per Person Household Benefits ($USD) & Percent Change 
  - Monthly Average Per Person WIC Benefits & Percent Change
  - Average Weekly Amount of Money Spent on Food among Households with No Children 
  - Average Weekly Amount of Money Spent on Food among Households with 2 Children 
- - Percent Reporting Reciving  Free Grocies or Meals
+ - Percent Reporting Reciving Free Grocies or Meals
  - Percent Reporting Using Home-Delivered Meal Service
  - Percent Reporting Using Food Pantry or Food Bank
  - Percent Reporting Receiving Food from Schools or Other Programs Aimed at Children
